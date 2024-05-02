@@ -3,3 +3,6 @@ Huraira Khan
 cout<<"sum of two no."<<a+b;
 cout<<"subtraction of two no."<<a-b;
 cout<<"multipication of two no".<<a*b;
+cout<<"division of two no"<<a/b;
+
+
