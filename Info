@@ -1,3 +1,8 @@
 Huraira Khan
 23-sst-024
 cout<<"sum of two no."<<a+b;
+cout<<"subtraction of two no."<<a-b;
+cout<<"multipication of two no".<<a*b;
+cout<<"division of two no"<<a/b;
+
+
